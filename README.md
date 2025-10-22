@@ -16,4 +16,4 @@
 ### Bukti Koding Efisien dan Optimalisasi AI
 1.  **Python Script (`coordinate_generator.py`):** Kami menggunakan **Python** dengan **Loop** dan **Fungsi Modular** untuk menghasilkan 20 titik koordinat fiktif secara otomatis. Ini menggantikan proses input data manual dan membuktikan kemampuan *data generation* yang efisien.
 2.  **Logika Kalkulasi Jarak:** Kami menerapkan **Fungsi Modular** di JavaScript untuk menghitung jarak antara dua koordinat yang dipilih pengguna, merepresentasikan aplikasi logika koding dalam navigasi.
-3.  **Optimalisasi AI:** Kecerdasan Artifisial (seperti Gemini/ChatGPT) digunakan untuk *brainstorming* desain *dashboard* peta yang *user-friendly* dan membantu dalam penulisan *boiler-plate* **Rumus Haversine** sederhana.
+3.  **Optimalisasi AI:** Kecerdasan Artifisial (Gemini) digunakan untuk *brainstorming* desain *dashboard* peta yang *user-friendly* dan membantu dalam penulisan *boiler-plate* **Rumus Haversine** sederhana.
