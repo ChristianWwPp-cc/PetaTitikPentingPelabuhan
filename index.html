@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siaga Navigasi: Peta Pelabuhan</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAo9T0jYFqXkR/0wJ/R/M2X2lQdG/q/X9V+yT4/j8="
+          crossorigin=""/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Siaga Navigasi 🧭</h1>
+        <p>Peta Titik Penting Pelabuhan Lamongan</p>
+    </header>
+
+    <main>
+        <section id="map-container">
+            <div id="map"></div>
+        </section>
+
+        <section id="sidebar">
+            <h2>Pencarian Lokasi</h2>
+            <div class="filter-controls">
+                <label for="filter-kategori">Filter Kategori:</label>
+                <select id="filter-kategori" onchange="filterMarkers(this.value)">
+                    <option value="Semua">Semua Kategori</option>
+                    <option value="Perbekalan">Perbekalan</option>
+                    <option value="Layanan Kapal">Layanan Kapal</option>
+                    <option value="Area Larangan">Area Larangan</option>
+                </select>
+            </div>
+            
+            <div id="hasil-pencarian">
+                </div>
+            
+            <hr>
+
+            <h2>Kalkulator Jarak Sederhana</h2>
+            <p>Pilih dua titik di peta untuk menghitung jarak.</p>
+            <div id="jarak-output" class="info-box">
+                Jarak: 0 km
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Proyek Siswa SMKN Maritim Lamongan. Solusi Digital Navigasi.</p>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-2eN2y/qFhP5g/QkG/G2r/9Z2Y/qQY/A0/Qp/8C/t/8Gg="
+            crossorigin=""></script>
+    <script src="script.js"></script>
+</body>
+</html>
