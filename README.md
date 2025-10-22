@@ -1,7 +1,7 @@
 # Siaga Navigasi: Peta Sederhana Titik Penting Pelabuhan
 
 ### Judul & Deskripsi Singkat Karya
-**Judul:** Siaga Navigasi: Peta Titik Penting Pelabuhan Berbasis Koding Efisien SMKN MARITIM
+**Judul:** Siaga Navigasi: Peta Titik Penting Pelabuhan Berbasis Koding Efisien SMKN MARITIM .
 **Deskripsi:** Aplikasi web statis yang menyajikan simulasi peta interaktif untuk menampilkan titik-titik penting (Perbekalan, Layanan Kapal, Area Larangan) di sekitar area Pelabuhan Lamongan. Fitur utamanya adalah **Filtering Lokasi** dan **Kalkulator Jarak** antar dua titik.
 
 ### Cara Menjalankan/Mengakses Karya
