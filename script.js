@@ -1,7 +1,147 @@
 // Data yang DIBUAT oleh Python (Salin dari lokasi_data.json ke sini)
 const lokasiData = [
-    // Struktur data: { "id": 1, "nama": "Depot BBM Fiktif - (1)", "lat": -6.879, "lon": 112.435, "kategori": "Perbekalan" }
-    // Isi array ini dengan data hasil generate Python kamu!
+    [
+    {
+        "id": 1,
+        "nama": "Dermaga 03 - (1)",
+        "lat": -6.87109,
+        "lon": 112.44658,
+        "kategori": "Area Larangan"
+    },
+    {
+        "id": 2,
+        "nama": "Bengkel Las Kapal - (2)",
+        "lat": -6.87598,
+        "lon": 112.40919,
+        "kategori": "Perbekalan"
+    },
+    {
+        "id": 3,
+        "nama": "Kantor Syahbandar Fiktif - (3)",
+        "lat": -6.87306,
+        "lon": 112.43478,
+        "kategori": "Area Larangan"
+    },
+    {
+        "id": 4,
+        "nama": "Bengkel Las Kapal - (4)",
+        "lat": -6.88426,
+        "lon": 112.43936,
+        "kategori": "Area Larangan"
+    },
+    {
+        "id": 5,
+        "nama": "Area Konservasi - (5)",
+        "lat": -6.87826,
+        "lon": 112.4368,
+        "kategori": "Perbekalan"
+    },
+    {
+        "id": 6,
+        "nama": "Warung Nelayan Jaya - (6)",
+        "lat": -6.88095,
+        "lon": 112.42915,
+        "kategori": "Layanan Kapal"
+    },
+    {
+        "id": 7,
+        "nama": "Dermaga 03 - (7)",
+        "lat": -6.88844,
+        "lon": 112.41285,
+        "kategori": "Area Larangan"
+    },
+    {
+        "id": 8,
+        "nama": "Kantor Syahbandar Fiktif - (8)",
+        "lat": -6.88361,
+        "lon": 112.42457,
+        "kategori": "Area Larangan"
+    },
+    {
+        "id": 9,
+        "nama": "Area Konservasi - (9)",
+        "lat": -6.88121,
+        "lon": 112.44357,
+        "kategori": "Layanan Kapal"
+    },
+    {
+        "id": 10,
+        "nama": "Area Konservasi - (10)",
+        "lat": -6.88079,
+        "lon": 112.41437,
+        "kategori": "Area Larangan"
+    },
+    {
+        "id": 11,
+        "nama": "Dermaga 03 - (11)",
+        "lat": -6.88089,
+        "lon": 112.44232,
+        "kategori": "Perbekalan"
+    },
+    {
+        "id": 12,
+        "nama": "Warung Nelayan Jaya - (12)",
+        "lat": -6.88793,
+        "lon": 112.44442,
+        "kategori": "Perbekalan"
+    },
+    {
+        "id": 13,
+        "nama": "Kantor Syahbandar Fiktif - (13)",
+        "lat": -6.87594,
+        "lon": 112.42008,
+        "kategori": "Layanan Kapal"
+    },
+    {
+        "id": 14,
+        "nama": "Warung Nelayan Jaya - (14)",
+        "lat": -6.87511,
+        "lon": 112.43282,
+        "kategori": "Layanan Kapal"
+    },
+    {
+        "id": 15,
+        "nama": "Kantor Syahbandar Fiktif - (15)",
+        "lat": -6.87118,
+        "lon": 112.43092,
+        "kategori": "Area Larangan"
+    },
+    {
+        "id": 16,
+        "nama": "Warung Nelayan Jaya - (16)",
+        "lat": -6.88599,
+        "lon": 112.44662,
+        "kategori": "Layanan Kapal"
+    },
+    {
+        "id": 17,
+        "nama": "Area Konservasi - (17)",
+        "lat": -6.88699,
+        "lon": 112.41987,
+        "kategori": "Area Larangan"
+    },
+    {
+        "id": 18,
+        "nama": "Kantor Syahbandar Fiktif - (18)",
+        "lat": -6.88335,
+        "lon": 112.44507,
+        "kategori": "Perbekalan"
+    },
+    {
+        "id": 19,
+        "nama": "Depot BBM Fiktif - (19)",
+        "lat": -6.87188,
+        "lon": 112.42038,
+        "kategori": "Area Larangan"
+    },
+    {
+        "id": 20,
+        "nama": "Area Konservasi - (20)",
+        "lat": -6.87953,
+        "lon": 112.43915,
+        "kategori": "Area Larangan"
+    }
+]
 ];
 
 
