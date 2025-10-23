@@ -23,7 +23,7 @@ function initMap() {
     // Tambahkan layer peta (Tile Layer dari OpenStreetMap)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | Proyek SMK Maritim'
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | Proyek SMKN Maritim'
     }).addTo(map);
 
     // Tambahkan layer marker ke peta
